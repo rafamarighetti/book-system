@@ -1,5 +1,5 @@
 
-# Aplicação de Teste para a EICON
+# Aplicação de Teste para sistema de LIVROS.
 
 ## Apresentação
 Esta API foi desenvolvida para a inserção de livros com contaúdo separado por página, coma possibilidade de inclusão de capítulos.
