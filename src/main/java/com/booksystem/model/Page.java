@@ -15,7 +15,7 @@ public class Page {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    private String chapter; // VALOR INFORMADO SOMENNTE QUANDO HOUVER UM NOVO PARÁGRAFO INICIADO
+    private String chapter; // VALOR INFORMADO SOMENNTE QUANDO HOUVER UM NOVO CAPÍTULO INICIADO
 
     @Column(length = 2000) // MÁXIMO DE CONTEÚDO PERMITIDO POR PÁGINA EM CARÁCTERES
     private String content;
