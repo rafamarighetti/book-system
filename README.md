@@ -6,7 +6,7 @@ Esta API foi desenvolvida para a inserção de livros com contaúdo separado por
 
 ## Technologias Utilizadas
 
-* Srpingboot
+* Springboot
 * Java
 * Docker
 
